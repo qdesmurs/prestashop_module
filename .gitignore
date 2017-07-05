@@ -3,6 +3,7 @@
 !/modules
 /modules/*
 !/modules/mymodule
+!/modules/nbrarticles
 !/config
 /config/*
 !/config/defines.inc.php
