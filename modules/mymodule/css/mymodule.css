@@ -6,17 +6,3 @@ div#mymodule_block_home p, li {
 div#mymodule_block_home a {
   color: blue;
 }
-#product-total span {
-    font-size: 25px;
-    color: white;
-    text-shadow: 2px 2px 2px green;
-}
-#product-total {
-    padding: 20px 10px;
-    text-align: center;
-    width: auto;
-    background: none #DCDCDC;
-    margin:1em;
-    font-size: 20px;
-    color: black;
-}

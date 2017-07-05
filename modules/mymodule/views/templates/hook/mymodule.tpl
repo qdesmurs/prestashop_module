@@ -13,9 +13,6 @@
       <li><a href="{$my_module_link}"  title="{l s='Click this link' mod='mymodule'}">{l s='Click me!' mod='mymodule'}</a></li>
     </ul>
     {$my_module_message}
-    <div id="product-total">
-        Faites votre choix parmi les <span>{mymodule::getProductTotal()}</span> produits de la boutique !
-    </div>
   </div>
 </div>
 <!-- /Block mymodule -->
