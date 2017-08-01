@@ -4,6 +4,7 @@
 /modules/*
 !/modules/mymodule
 !/modules/nbrarticles
+!/modules/blogmodule
 !/config
 /config/*
 !/config/defines.inc.php
